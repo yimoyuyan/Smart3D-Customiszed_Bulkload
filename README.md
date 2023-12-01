@@ -13,6 +13,4 @@
 ## 使用文档
 关于该工具的详细设计细节及使用方法，请参考[Smart3D-Customiszed_Bulkload使用文档](https://yimoyuyan.github.io/Smart3D-Customiszed_Bulkload)
 
-|  S3D2016         | S3D2018-S3DV13 |
-|:-----------------|:---------------|
-| `v1.0.0.1`       |  `v1.0.1.2`    |  
+最新版本：`v1.0.1.2`
